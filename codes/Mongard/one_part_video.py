@@ -8,7 +8,29 @@ watched_video = ["f-string","polymorphism","duck typing",
 "dns","monkey patch","proxy","NotImplemented","gc","init_subclass",
 "singledispatch","missing","content types", "heapq", "pillow", "glob",
 "math"," lru_cache", "http", "inheriting built-in object","stub file",
-"getpass"]
+"getpass", "len", "nested class", "django custom exception",
+"data class", "product" , "bool" , "total_ordering", "execution order",
+"namescape", "argparse", "reversed", "collections.abc","cause and context",
+"islice", "walrus", "markdown", "pdb", "hashlib", "compress","chain",
+"queue", "accumulate", "operator", "repeat", " cycle", "ellipsis",
+"count", "pacman" , "aggregation", "setattr_getattr" , "shutil",
+"platform", "setup" , "AbstractUser", "dispatch", "recersive method",
+"class variable", " http", "template filter", "template tag", "getitem, setitem, delitem",
+"slots", " middleware", "full text search", "Q Object", "imports",
+"change form", "import pic", "hasattr, getattr, setattr",
+"isinstance", "eval و exec", "split and join", "any و all",
+"queryset","sys", "F", "abstract model", "google api", "dork",
+"os", " ChainMap", "title", "container", "farsiaze" , "yaml",
+"calendar", "hash", "functools", "logging"," textwrap", "datetime",
+"Markdown", "time", "Comparison methods", "random", "json","Jupyter",
+"mutable", "contextlib", "context manager", "annotations", "encapsulation",
+"abstract", "metaclass", "call" , "new" , "MRO", "all", "init",
+"deque", "sqlite", "args and kwargs", "Counter", "dictionary comprehensions",
+"if name == main", "is and ==" , "iterate", "list comprehension",
+"namedTuples","orderedDict", "assert", "decorators", "function","generator",
+"None" , "Shallow, Deep copy" , "underscore"
+
+]
 
 print(f"i watched {len(watched_video)} of mongard's one part video")
 
