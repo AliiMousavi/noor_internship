@@ -1,0 +1,15 @@
+{
+    "name": "amir",
+    "age": 30,
+    "email": "mongard.amir@gmail.com",
+    "is_employee": true,
+    "hobbies": [
+      "reading",
+      "traveling"
+    ],
+    "address": {
+      "street": "123 Main Street",
+      "city": "Tehran",
+      "zip": "10001"
+    }
+  }
